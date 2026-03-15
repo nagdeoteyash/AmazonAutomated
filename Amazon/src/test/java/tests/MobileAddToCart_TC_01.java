@@ -127,9 +127,16 @@ public class MobileAddToCart_TC_01 extends BaseBrowserinitClass
 		login.SignInBtn();
 	}
 	
-	@Test(priority = 5)
+	@Test(priority = 6)
 	public void gitpullrequestExample()
 	{
 		System.out.println("git pull request ");
+	}
+
+
+	@ Test ( prority = 7 )
+	public void gitpullrequestExample()
+	{
+		System.out.println("git push request ");
 	}
 }
