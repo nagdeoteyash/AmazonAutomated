@@ -138,5 +138,8 @@ public class MobileAddToCart_TC_01 extends BaseBrowserinitClass
 	public void gitpullrequestExample()
 	{
 		System.out.println("git push request ");
+		System.out.println(" editing this file in git and will be pulled in our local system. ");
+
+		
 	}
 }
